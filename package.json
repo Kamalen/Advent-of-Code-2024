@@ -1,0 +1,32 @@
+{
+  "name": "advent-of-code",
+  "version": "1.0.0",
+  "scripts": {
+    "day1/01": "tsx day1/01.ts",
+    "day1/02": "tsx day1/02.ts",
+    "day2/01": "tsx day2/01.ts",
+    "day2/02": "tsx day2/02.ts",
+    "day3/01": "tsx day3/01.ts",
+    "day3/02": "tsx day3/02.ts",
+    "day4/01": "tsx day4/01.ts",
+    "day4/02": "tsx day4/02.ts",
+    "day5/01": "tsx day5/01.ts",
+    "day5/02": "tsx day5/02.ts",
+    "day6/01": "tsx day6/01.ts",
+    "day6/02": "tsx day6/02.ts",
+    "day7/01": "tsx day7/01.ts",
+    "day7/02": "tsx day7/02.ts",
+    "day8/01": "tsx day8/01.ts",
+    "day8/02": "tsx day8/02.ts",
+    "day9/01": "tsx day9/01.ts",
+    "day9/02": "tsx day9/02.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^22.10.1",
+    "tsx": "^4.19.2"
+  }
+}
